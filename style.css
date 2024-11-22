@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #6d4aff;
+  background-color: #d4eaf7;
   font-family: "Poppins", sans-serif;
 }
 h1,
@@ -28,7 +28,7 @@ h3 {
 }
 
 .kotak:hover {
-  background-color: rgb(130, 34, 255);
+  background-color: #71c4ef;
 }
 .header {
   text-align: center;
